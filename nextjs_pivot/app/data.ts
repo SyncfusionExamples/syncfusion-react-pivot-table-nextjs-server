@@ -1,0 +1,116 @@
+import { IDataSet } from "@syncfusion/ej2-react-pivotview";
+
+export const productDetails: IDataSet[] = [
+  {
+    "ProductID": 10001,
+    "ProductName": "Smartwatch",
+    "Category": "Electronics",
+    "MRP": 100.0,
+    "Discount": 1.02
+  },
+  {
+    "ProductID": 10002,
+    "ProductName": "Smartwatch",
+    "Category": "Accessories",
+    "MRP": 110.0,
+    "Discount": 1.12
+  },
+  {
+    "ProductID": 10003,
+    "ProductName": "Smartwatch",
+    "Category": "Home Appliances",
+    "MRP": 120.0,
+    "Discount": 1.22
+  },
+  {
+    "ProductID": 10004,
+    "ProductName": "Smartwatch",
+    "Category": "Gadgets",
+    "MRP": 130.0,
+    "Discount": 1.32
+  },
+  // {
+  //   "ProductID": 10005,
+  //   "ProductName": "USB Book Light",
+  //   "Category": "Electronics",
+  //   "MRP": 140.0,
+  //   "Discount": 1.42
+  // },
+  // {
+  //   "ProductID": 10006,
+  //   "ProductName": "USB Book Light",
+  //   "Category": "Accessories",
+  //   "MRP": 150.0,
+  //   "Discount": 1.52
+  // },
+  // {
+  //   "ProductID": 10007,
+  //   "ProductName": "USB Book Light",
+  //   "Category": "Home Appliances",
+  //   "MRP": 160.0,
+  //   "Discount": 1.62
+  // },
+  // {
+  //   "ProductID": 10008,
+  //   "ProductName": "USB Book Light",
+  //   "Category": "Gadgets",
+  //   "MRP": 170.0,
+  //   "Discount": 1.72
+  // },
+  // {
+  //   "ProductID": 10009,
+  //   "ProductName": "Split Air Conditioner",
+  //   "Category": "Electronics",
+  //   "MRP": 180.0,
+  //   "Discount": 1.82
+  // },
+  // {
+  //   "ProductID": 10010,
+  //   "ProductName": "Split Air Conditioner",
+  //   "Category": "Accessories",
+  //   "MRP": 190.0,
+  //   "Discount": 1.92
+  // },
+  // {
+  //   "ProductID": 10011,
+  //   "ProductName": "Split Air Conditioner",
+  //   "Category": "Home Appliances",
+  //   "MRP": 200.0,
+  //   "Discount": 2.02
+  // },
+  // {
+  //   "ProductID": 10012,
+  //   "ProductName": "Split Air Conditioner",
+  //   "Category": "Gadgets",
+  //   "MRP": 210.0,
+  //   "Discount": 2.12
+  // },
+  // {
+  //   "ProductID": 10013,
+  //   "ProductName": "Travel Charger",
+  //   "Category": "Electronics",
+  //   "MRP": 220.0,
+  //   "Discount": 2.22
+  // },
+  // {
+  //   "ProductID": 10014,
+  //   "ProductName": "Travel Charger",
+  //   "Category": "Accessories",
+  //   "MRP": 230.0,
+  //   "Discount": 2.32
+  // },
+  // {
+  //   "ProductID": 10015,
+  //   "ProductName": "Travel Charger",
+  //   "Category": "Home Appliances",
+  //   "MRP": 240.0,
+  //   "Discount": 2.42
+  // },
+  // {
+  //   "ProductID": 10016,
+  //   "ProductName": "Travel Charger",
+  //   "Category": "Gadgets",
+  //   "MRP": 250.0,
+  //   "Discount": 2.52
+  // }
+];
